@@ -1,3 +1,4 @@
 # workshop
-project description
+
+PROJECT DESCRIPTION
 this the workshop on introduction to git and github.
